@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx-app
-        image: ccbbss1126/nginxweb:v1.0
+        image: ccbbss1126/nginxweb:v2.0
         ports:
         - containerPort: 80
         resources:
